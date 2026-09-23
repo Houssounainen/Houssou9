@@ -1,0 +1,8 @@
+{
+  "name": "Houssou9",
+  "description": "Application de gestion tout-en-un pour organiser projets, finances, habitudes et productivité quotidienne.",
+  "version": "1.0.0",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
